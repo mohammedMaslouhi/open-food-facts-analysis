@@ -8,6 +8,9 @@ This project focuses on the analysis of a large-scale dataset from Open Food Fac
 - Perform exploratory data analysis (EDA)
 - Extract insights from nutritional variables
 
+## Dataset
+The dataset used comes from Open Food Facts, containing nutritional information on a large number of products.
+
 ## Tools
 - Python (Pandas, NumPy, Matplotlib)
 - Jupyter Notebook
@@ -20,4 +23,4 @@ This project focuses on the analysis of a large-scale dataset from Open Food Fac
 
 ## Results
 - Improved dataset quality
-- Insights on nutritional distributions
+- Identification of key patterns in nutritional variables (e.g., sugar, fat distribution)
