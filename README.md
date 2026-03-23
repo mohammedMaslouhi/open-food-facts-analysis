@@ -24,3 +24,6 @@ The dataset used comes from Open Food Facts, containing nutritional information 
 ## Results
 - Improved dataset quality
 - Identification of key patterns in nutritional variables (e.g., sugar, fat distribution)
+
+## Author
+Mohammed MASLOUHI
